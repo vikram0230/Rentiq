@@ -1,2 +1,2 @@
-# Rental-Management-System
-Helps the owner manage rentals with ease
+# Rentiq
+This application helps the rental owner to manage all his rentals.
