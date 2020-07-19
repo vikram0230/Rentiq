@@ -1,5 +1,5 @@
 name: rentiq
-description: A Renting Flutter application.
+description: A new Flutter application.
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -27,6 +27,10 @@ dependencies:
   sqflite: ^1.2.0
   path_provider: ^1.5.1
   async: ^2.4.0
+  foldable_sidebar: ^1.0.0
+  loading_animations: ^2.1.0
+  rflutter_alert: ^1.0.2
+#  google_fonts: ^1.1.0
 
 
 dev_dependencies:
@@ -61,17 +65,17 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-#  fonts:
-#     - family: Crimson
-#       fonts:
-#         - asset: asset/font/CrimsonText-Bold.ttf
-#         - asset: asset/font/CrimsonText-Regular.ttf
-#           style: italic
-#     - family: Agane
-#       fonts:
-#         - asset: asset/font/Agane¦Ç 45 (light).ttf
-#         - asset: asset/font/Agane¦Ç 65 (Bold).ttf
-#           weight: 700
-
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
