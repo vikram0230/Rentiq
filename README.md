@@ -2,8 +2,16 @@
 
 Android application: Rental management system built using Flutter. 
 
-### Rental Management System
+**Rental management app** will enable the rental owner to manage multiple rentals at the same time. Owner (User) can easily keep track of all the tenant and rental details. Hassle-free way to create monthly bills for each rental. This app also helps in sharing the bill to the tenants.
 
-This application helps the owner to manage all his rentals.
+Why use this app? Owners, having a lot of rentals to manage, face problems in calculating the bill each month for every rental and keeping track of the rental occupancy. This app is a solution for all these problems. It will help you keep track of all the data by storing it offline, notifies you to produce bills for the current month. No need of diary full of hand written bills. Everything is automated to your comfort.
 
-Owner (user) can add, delete and alter rental details. Rent, electricity bill, water tax and others are calculated and receipt is produced monthly. Rent receipt is sent to tenants through SMS. 
+We bring you Rentiq, an app which respects your privacy coupled with comprehensive and beautiful user interface and a flawless user experience.
+
+KEY FEATURES
+
+✴️Store all details of rental offline
+
+✴️Notifies when bill not produced
+
+✴️Share bill via any messaging app
